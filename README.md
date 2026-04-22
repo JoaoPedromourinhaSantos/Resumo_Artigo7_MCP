@@ -1,2 +1,3 @@
 # Resumo_Artigo7_MCP
-An[
+Análise e resumo do artigo **Model Context Protocol (MCP): Landscape, Security Threats, and
+Future Research Directions**
